@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "Ixtisas_Secimim.Controllers.EnumsController",
+    "Method": "GetEnums",
+    "RelativePath": "api/Enums",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ixtisas_Secimim.Controllers.StudentsController",
+    "Method": "Get",
+    "RelativePath": "api/Students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ixtisas_Secimim.Controllers.StudentsController",
+    "Method": "CreateAndSuggest",
+    "RelativePath": "api/Students",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Ixtisas_Secimim.DTOs.Students.StudentCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\controllers\\enumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\controllers\\enumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\extentions\\enumextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\extentions\\enumextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\dtos\\students\\aistudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\dtos\\students\\aistudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\services\\implements\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\services\\implements\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\services\\abstracts\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\services\\abstracts\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\dtos\\students\\studentgetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\dtos\\students\\studentgetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\enums\\specgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\enums\\specgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\enums\\paidtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\enums\\paidtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\validators\\student\\studentcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\validators\\student\\studentcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\dtos\\students\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\dtos\\students\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\ixtisas_secimim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\ixtisas_secimim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnumsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Controllers\\EnumsController.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Controllers\\EnumsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Controllers\\EnumsController.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\Controllers\\EnumsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:21:53.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AiStudentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\AiStudentRequest.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\DTOs\\Students\\AiStudentRequest.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\AiStudentRequest.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\DTOs\\Students\\AiStudentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:32:49.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpecGroup.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Enums\\SpecGroup.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Enums\\SpecGroup.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Enums\\SpecGroup.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\Enums\\SpecGroup.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:31:00.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnumExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Extentions\\EnumExtentions.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Extentions\\EnumExtentions.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Extentions\\EnumExtentions.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\Extentions\\EnumExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:38:40.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Validators\\Student\\StudentCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Validators\\Student\\StudentCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Validators\\Student\\StudentCreateDtoValidator.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\Validators\\Student\\StudentCreateDtoValidator.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:22:44.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaidType.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Enums\\PaidType.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Enums\\PaidType.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Enums\\PaidType.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\Enums\\PaidType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:18:57.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:59:48.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ixtisas_Secimim.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Ixtisas_Secimim.csproj",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Ixtisas_Secimim.csproj",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Ixtisas_Secimim.csproj",
+              "RelativeToolTip": "Ixtisas_Secimim\\Ixtisas_Secimim.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T09:03:08.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\ServiceRegistration.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:03:31.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Program.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Program.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:52:12.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Profiles\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Profiles\\StudentProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Profiles\\StudentProfile.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\Profiles\\StudentProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:48:39.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:44:43.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Services\\Implements\\StudentService.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Services\\Implements\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Services\\Implements\\StudentService.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\Services\\Implements\\StudentService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwEIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:43:37.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentGetAllDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\StudentGetAllDto.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\DTOs\\Students\\StudentGetAllDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\StudentGetAllDto.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\DTOs\\Students\\StudentGetAllDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:41:15.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Services\\Abstracts\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Services\\Abstracts\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\Services\\Abstracts\\IStudentService.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\Services\\Abstracts\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:40:35.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

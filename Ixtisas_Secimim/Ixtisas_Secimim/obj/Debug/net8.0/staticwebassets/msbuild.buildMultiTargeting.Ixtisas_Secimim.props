@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ixtisas_Secimim.props" />
+</Project>

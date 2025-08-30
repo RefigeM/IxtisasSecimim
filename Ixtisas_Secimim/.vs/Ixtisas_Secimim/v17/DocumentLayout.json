@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\dtos\\students\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\dtos\\students\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
+              "RelativeToolTip": "Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:36:13.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
