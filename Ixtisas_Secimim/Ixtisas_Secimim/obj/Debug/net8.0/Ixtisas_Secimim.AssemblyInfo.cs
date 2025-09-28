@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ixtisas_Secimim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+871983d28c461d136895a4133d008a0847e12881")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74d004f423fd8e11fc433ef5e559893456dc4cb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ixtisas_Secimim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ixtisas_Secimim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

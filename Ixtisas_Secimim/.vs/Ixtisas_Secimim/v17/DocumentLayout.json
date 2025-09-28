@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\New folder\\IxtisasSecimim\\Ixtisas_Secimim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\ixtisas_secimim\\ixtisas_secimim\\dtos\\students\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\new folder\\ixtisassecimim\\ixtisas_secimim\\ixtisas_secimim\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\new folder\\ixtisassecimim\\ixtisas_secimim\\ixtisas_secimim\\dtos\\students\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF17E839-8D4C-46DF-9CBB-9BCD9F807223}|Ixtisas_Secimim\\Ixtisas_Secimim.csproj|solutionrelative:ixtisas_secimim\\dtos\\students\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\New folder\\IxtisasSecimim\\Ixtisas_Secimim\\Ixtisas_Secimim\\Dockerfile",
+              "RelativeDocumentMoniker": "Ixtisas_Secimim\\Dockerfile",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\New folder\\IxtisasSecimim\\Ixtisas_Secimim\\Ixtisas_Secimim\\Dockerfile",
+              "RelativeToolTip": "Ixtisas_Secimim\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-28T17:19:19.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StudentCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\New folder\\IxtisasSecimim\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
               "RelativeDocumentMoniker": "Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\New folder\\IxtisasSecimim\\Ixtisas_Secimim\\Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
               "RelativeToolTip": "Ixtisas_Secimim\\DTOs\\Students\\StudentCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T18:36:13.266Z",
               "EditorCaption": ""
